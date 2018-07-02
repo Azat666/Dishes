@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="imige_size">100dp</dimen>
+    <dimen name="tetx_size">25sp</dimen>
+    <dimen name="margin_colory">10dp</dimen>
+    <dimen name="sizetextx_">180dp</dimen>
+    <dimen name="xui">10dp</dimen>
+</resources>
